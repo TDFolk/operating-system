@@ -1,1 +1,1 @@
-Simple C program that implements different Operating System ideas/functionality
+C project that implements different Operating System ideas/functionality
